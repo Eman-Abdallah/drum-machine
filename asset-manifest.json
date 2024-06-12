@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Eman-Abdallah/drum-machine/static/css/main.b95ac970.css",
+    "main.js": "/Eman-Abdallah/drum-machine/static/js/main.0608243d.js",
+    "static/js/453.a32f8043.chunk.js": "/Eman-Abdallah/drum-machine/static/js/453.a32f8043.chunk.js",
+    "index.html": "/Eman-Abdallah/drum-machine/index.html",
+    "main.b95ac970.css.map": "/Eman-Abdallah/drum-machine/static/css/main.b95ac970.css.map",
+    "main.0608243d.js.map": "/Eman-Abdallah/drum-machine/static/js/main.0608243d.js.map",
+    "453.a32f8043.chunk.js.map": "/Eman-Abdallah/drum-machine/static/js/453.a32f8043.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b95ac970.css",
+    "static/js/main.0608243d.js"
+  ]
+}
